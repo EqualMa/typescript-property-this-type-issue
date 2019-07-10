@@ -1,0 +1,1 @@
+# typescript-property-this-type-issue
